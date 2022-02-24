@@ -1,4 +1,4 @@
-num_list = [1, 2, 3]
+"""num_list = [1, 2, 3]
 alpha_list = ['a', 'b', 'c']
 
 for number in num_list:
